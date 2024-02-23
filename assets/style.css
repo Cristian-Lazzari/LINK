@@ -15,7 +15,7 @@ main{
     background-size: cover;
 }
 main .max-width{
-    height: 100%;
+
     max-width: 550px;
     margin: 0 auto 0;
     padding: 1rem;
